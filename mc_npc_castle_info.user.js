@@ -3,7 +3,7 @@
 // @namespace      https://github.com/5zen
 // @include        http://*.bmcaxis.jp/map.php*
 // @include        http://*.bmcaxis.jp/big_map.php*
-// @icon           http://5zen.info/hokan/icon.png
+// @icon           https://raw.github.com/5zen/mc_beyond/master/icon.png
 // @homepage       https://github.com/5zen
 // @description    ＭＣ☆あくしず NPC砦情報取得
 // @version        1.00
