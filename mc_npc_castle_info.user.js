@@ -7,10 +7,16 @@
 // @homepage       https://github.com/5zen
 // @description    ＭＣ☆あくしず NPC砦情報取得
 // @version        1.00
+// @grant				GM_getValue
+// @grant				GM_setValue
+// @grant				GM_xmlhttpRequest
+// @grant				GM_addStyle
+// @grant				GM_getResourceURL
 // ==/UserScript==
 // version date       author
 
 // 2013.01.31	移植
+// 2013.03.14   Firefox+Greasemonkey対応
 
 var DELIMIT1 = "#$%";
 var DELIMIT2 = "&?@";
